@@ -2162,7 +2162,7 @@
     (uuid 16ce34b0-e124-4278-9fc6-baaedcea88cf)
     (property "Reference" "J2" (id 0) (at 59.3724 85.725 0))
     (property "Value" "Canal 2" (id 1) (at 59.3724 88.265 0))
-    (property "Footprint" "" (id 2) (at 59.055 93.345 0)
+    (property "Footprint" "Julio_Connectors:BNC_DOSIN-801-0083" (id 2) (at 59.055 93.345 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 59.055 93.345 0)
@@ -2320,7 +2320,7 @@
     (uuid 39b16d0f-89a0-4830-b92f-38d2db5dc07c)
     (property "Reference" "J1" (id 0) (at 59.3724 33.655 0))
     (property "Value" "Canal 1" (id 1) (at 59.3724 36.195 0))
-    (property "Footprint" "" (id 2) (at 59.055 41.275 0)
+    (property "Footprint" "Julio_Connectors:BNC_DOSIN-801-0083" (id 2) (at 59.055 41.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 59.055 41.275 0)
@@ -2956,7 +2956,7 @@
     (uuid a2e06167-8355-4f4e-b078-7812a4ea3125)
     (property "Reference" "SW1" (id 0) (at 208.28 21.59 0))
     (property "Value" "SW_DIP_x08" (id 1) (at 208.28 24.13 0))
-    (property "Footprint" "" (id 2) (at 208.28 39.37 0)
+    (property "Footprint" "Julio_Switches:SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm" (id 2) (at 208.28 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 39.37 0)
@@ -3385,7 +3385,7 @@
     (uuid fd9f33df-4147-42df-b32c-afff44c62ea6)
     (property "Reference" "J4" (id 0) (at 233.9976 62.865 0))
     (property "Value" "Saída" (id 1) (at 233.9976 65.405 0))
-    (property "Footprint" "" (id 2) (at 234.315 70.485 0)
+    (property "Footprint" "Julio_Connectors:BNC_DOSIN-801-0083" (id 2) (at 234.315 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 234.315 70.485 0)
@@ -3464,16 +3464,16 @@
       (reference "C4") (unit 1) (value "10uF_25V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/39b16d0f-89a0-4830-b92f-38d2db5dc07c"
-      (reference "J1") (unit 1) (value "Canal 1") (footprint "")
+      (reference "J1") (unit 1) (value "Canal 1") (footprint "Julio_Connectors:BNC_DOSIN-801-0083")
     )
     (path "/16ce34b0-e124-4278-9fc6-baaedcea88cf"
-      (reference "J2") (unit 1) (value "Canal 2") (footprint "")
+      (reference "J2") (unit 1) (value "Canal 2") (footprint "Julio_Connectors:BNC_DOSIN-801-0083")
     )
     (path "/bc0472ee-2a85-4c9e-9973-2a70e59d9a38"
       (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Julio_Connectors:JST_XH_B02B-XH-A_02x2.50mm_Straight")
     )
     (path "/fd9f33df-4147-42df-b32c-afff44c62ea6"
-      (reference "J4") (unit 1) (value "Saída") (footprint "")
+      (reference "J4") (unit 1) (value "Saída") (footprint "Julio_Connectors:BNC_DOSIN-801-0083")
     )
     (path "/8aa91818-5460-4125-a3fc-f6a1805355d8"
       (reference "R1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3548,7 +3548,7 @@
       (reference "R24") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/a2e06167-8355-4f4e-b078-7812a4ea3125"
-      (reference "SW1") (unit 1) (value "SW_DIP_x08") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_DIP_x08") (footprint "Julio_Switches:SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm")
     )
     (path "/be7bc791-805c-4e3e-9832-26badc2c2d82"
       (reference "TP1") (unit 1) (value "Canal 1") (footprint "Julio_Testpoints:TestPoint_RH-5000")

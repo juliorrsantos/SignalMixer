@@ -1,4 +1,4 @@
-21692779263723867
+21696192896286694
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60046,6 +60046,13 @@ MY-18650-01
 6
 2
 Julio_Connectors
+BNC_DOSIN-801-0083
+1 Inner bore BNC Board Edge Bend 3GHz -55℃~+155℃ 75Ω 9.58mm Plugin RF Connectors / Coaxial Connectors ROHS
+BNC DOSIN
+0
+5
+2
+Julio_Connectors
 BS-08-B2AA016
 
 
@@ -60185,6 +60192,13 @@ SMD SMT crystal oscillator
 0
 4
 4
+Julio_Switches
+SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+16
+16
 Julio_Switches
 SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
