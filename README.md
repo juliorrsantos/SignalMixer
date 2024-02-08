@@ -1,6 +1,7 @@
 # Misturador de sinais
 
 ## Circuito desenvolvido como complemento para estudos de FFT
+O diagrama esquemático do circuito pode ser conferido **[aqui](./KiCad/SignalMixer/SignalMixer.pdf).**
 
 Características:
 - Duas entradas de sinais analógicos, com opção de alta impedância de entrada ou 50 ohms.
