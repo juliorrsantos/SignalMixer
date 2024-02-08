@@ -8,4 +8,12 @@ Características:
 - Alimentação por fonte simples de 24Vcc.
 - A saída será o resultado da soma dos dois sinais de entrada, multiplicado por seus respectivos ganhos.
 
-obs.: A fonte utilizada para alimentação do circuito nao devera ser a mesma que alimenta o gerador de sinais da entrada, ou o circuito conectado à saída.
+obs.: A fonte utilizada para alimentação do circuito não deverá ser a mesma que alimenta o gerador de sinais da entrada, ou o circuito conectado à saída.
+
+## Imagens da placa
+
+### Vista frontal
+![Vista frontal da PCI](KiCad/SignalMixer/Img/frente.png "Vista frontal da PCB")
+
+### Vista traseira
+![Vista traseira da PCI](KiCad/SignalMixer/Img/verso.png "Vista traseira da PCI")
