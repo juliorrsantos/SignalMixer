@@ -18,3 +18,10 @@ obs.: A fonte utilizada para alimentação do circuito não deverá ser a mesma 
 
 ### Vista traseira
 ![Vista traseira da PCI](KiCad/SignalMixer/Img/verso.png "Vista traseira da PCI")
+## Simulação
+
+Simulação do circuito no LTspice com a injeção de duas senoides, em 60 e 1200Hz respectivamente. Ambas com tensão de pico de 1V.
+
+É possível notar a soma dos dois sinais no terceiro gráfico, comprovando o funcionamento do circuito.
+
+![Simulação em LTspice](LTspice/tela_LTspice.png)
